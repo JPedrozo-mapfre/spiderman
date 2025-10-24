@@ -19,6 +19,10 @@ Una joven que pilota un robot llamado SP//dr, en una versión futurista y tecnol
 ### Spider-Ham (Peter Porker)
 Una versión cómica de Spider-Man que es un cerdo antropomórfico con habilidades similares a las de Peter Parker.
 
+### Spiderman 2099 (Miguel O'Hara)
+Spider-Man 2099 es una versión futurista de Spider-Man que vive en el año 2099 en la ciudad de Nueva York. Tras un experimento fallido, su ADN se mezcla con el de una araña, otorgándole habilidades similares a las del Spider-Man original.
+
+
 ## Interacción entre Universos
 
 En el Spider-Verse, los distintos Spider-Personajes se unen para enfrentar amenazas que afectan a todo el multiverso. A través de portales interdimensionales, colaboran para proteger sus mundos y compartir conocimientos.
