@@ -25,6 +25,7 @@ Esta idea guía sus acciones mientras lucha contra el crimen en Nueva York.
 - 🕷️ **Venom**
 - 🦎 **El Lagarto**
 - 🦑 **Doctor Octopus**
+- ⚡ **Electro**
 
 ## Legado
 
