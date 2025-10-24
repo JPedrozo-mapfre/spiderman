@@ -24,7 +24,7 @@ Esta idea guía sus acciones mientras lucha contra el crimen en Nueva York.
 - 🧪 **Duende Verde**
 - 🕷️ **Venom**
 - 🦎 **El Lagarto**
-- 🦇 **Doctor Octopus**
+- 🦑 **Doctor Octopus**
 
 ## Legado
 
