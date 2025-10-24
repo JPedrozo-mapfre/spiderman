@@ -12,5 +12,5 @@ El Lagarto es el alter ego del Dr. Curt Connors, quien tras experimentar con la 
 ## Doctor Octopus
 Doctor Octopus, también conocido como Otto Octavius, es un científico con tentáculos mecánicos que se convierten en parte de su cuerpo tras un accidente.
 
-## giy Electro
+## Electro
 Su verdadero nombre es Maxwell "Max" Dillon, un electricista que obtuvo sus poderes tras ser alcanzado por un rayo mientras trabajaba en una línea de alta tensión. Este accidente lo transformó en un "capacitor humano", capaz de generar, absorber y manipular electricidad a voluntad.
